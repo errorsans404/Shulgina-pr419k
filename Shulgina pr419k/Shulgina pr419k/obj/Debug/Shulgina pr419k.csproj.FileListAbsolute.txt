@@ -1,0 +1,11 @@
+G:\Экзамен пм.04\Shulgina pr419k\Shulgina pr419k\Shulgina pr419k\bin\Debug\Shulgina pr419k.exe.config
+G:\Экзамен пм.04\Shulgina pr419k\Shulgina pr419k\Shulgina pr419k\bin\Debug\Shulgina pr419k.exe
+G:\Экзамен пм.04\Shulgina pr419k\Shulgina pr419k\Shulgina pr419k\bin\Debug\Shulgina pr419k.pdb
+G:\Экзамен пм.04\Shulgina pr419k\Shulgina pr419k\Shulgina pr419k\obj\Debug\Shulgina pr419k.csproj.AssemblyReference.cache
+G:\Экзамен пм.04\Shulgina pr419k\Shulgina pr419k\Shulgina pr419k\obj\Debug\Shulgina pr419k.csproj.SuggestedBindingRedirects.cache
+G:\Экзамен пм.04\Shulgina pr419k\Shulgina pr419k\Shulgina pr419k\obj\Debug\Shulgina_pr419k.Form1.resources
+G:\Экзамен пм.04\Shulgina pr419k\Shulgina pr419k\Shulgina pr419k\obj\Debug\Shulgina_pr419k.Properties.Resources.resources
+G:\Экзамен пм.04\Shulgina pr419k\Shulgina pr419k\Shulgina pr419k\obj\Debug\Shulgina pr419k.csproj.GenerateResource.cache
+G:\Экзамен пм.04\Shulgina pr419k\Shulgina pr419k\Shulgina pr419k\obj\Debug\Shulgina pr419k.csproj.CoreCompileInputs.cache
+G:\Экзамен пм.04\Shulgina pr419k\Shulgina pr419k\Shulgina pr419k\obj\Debug\Shulgina pr419k.exe
+G:\Экзамен пм.04\Shulgina pr419k\Shulgina pr419k\Shulgina pr419k\obj\Debug\Shulgina pr419k.pdb
